@@ -10,7 +10,6 @@
   "author": "PP",
   "license": "ISC",
   "dependencies": {
-    // Se você precisar de alguma biblioteca npm no futuro, adicione aqui.
-    // O fetch é nativo no Node.js v18+ que a Vercel usa.
+    
   }
 }
