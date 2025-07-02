@@ -1,0 +1,16 @@
+{
+  "name": "gerador-relatorio-ia-js",
+  "version": "1.0.0",
+  "description": "Gerador de relatórios de atendimento com IA na Vercel (Node.js)",
+  "main": "api/generate.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "PP",
+  "license": "ISC",
+  "dependencies": {
+    // Se você precisar de alguma biblioteca npm no futuro, adicione aqui.
+    // O fetch é nativo no Node.js v18+ que a Vercel usa.
+  }
+}
